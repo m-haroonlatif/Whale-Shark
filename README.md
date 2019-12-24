@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+<!doctype html>
+<html lang="en-US">
+<head>
+<style>
+#h01 {font-family:"Comics sans MS",cursive,sans-serif;
+Color:#000080;
+font-size:30px}
+#p01 {font-family:"courier new",courier,monospace;
+font-style:italic;}
+#h02 {font-family:verdana, Geneva, sans-serif;
+color:#64FCFF
+background-color:black;
+font-size:20px;}
+#f01 {font-family:verdana;
+font-size:16px;}
+</style>
+<title>The Whale Shark</title>
+<meta charset="utf-8">
+</head>
+<body>
+<h1 id="h01"> A brief introduction</h1>
 
-You can use the [editor on GitHub](https://github.com/m-haroonlatif/Whale-Shark/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p id="p01" style="text-align:left:">The <strong>whale shark</strong> is a slow-moving, <i>filter-feeding</i> carpet shark and the <mark>largest</mark> known extant fish species. 
+The largest confirmed individual had a length of 18.8 <abbr title=metres>m</abbr> (62 <abbr title=feet>ft</abbr>). The whale shark holds many records for <em>size</em> in the animal kingdom, 
+most notably being by far the largest living <i>nonmammalian vertebrate</i>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/m-haroonlatif/Whale-Shark/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+The whale shark is found in open waters of the tropical oceans and is rarely found in water below <strong>21 <abbr title="degree centigrades">°C</abbr> (70 <abbr title="Degree Farenhite"°F</abbr>).</strong> 
+Modeling suggests a lifespan of about <strong>70 years</strong>, and while measurements have proven difficult, estimates from field data 
+suggest they may live as long as <strong>130 years</strong>. Whale sharks have very large mouths and are <i class=habit>filter feeders</i>
+They feed almost exclusively on <i>plankton</i> and <i>small fishes</i>, and pose <b>no threat</b> to humans.</p>
+<h2 id="h02" style="text-align:center;">Want to learn more?</h2>
+<ol>
+<li>Habitat and reproduction
+</li>
+<li>Diet</li>
+<li>Relation with humans</li>
+<li>Bonus Reads</li>
+</ol>
+<footer id="f01">
+All the information on this website is conciously borrowed from The Wikipedia and the content is filtered to focus on some specific Text.
+</footer>
+</body>
+</html>
