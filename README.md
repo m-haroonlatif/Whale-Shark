@@ -25,7 +25,7 @@ font-size:16px;}
 The largest confirmed individual had a length of 18.8 <abbr title=metres>m</abbr> (62 <abbr title=feet>ft</abbr>). The whale shark holds many records for <em>size</em> in the animal kingdom, 
 most notably being by far the largest living <i>nonmammalian vertebrate</i>
 
-The whale shark is found in open waters of the tropical oceans and is rarely found in water below <strong>21 <abbr title="degree centigrades">°C</abbr> (70 <abbr title="Degree Farenhite"°F</abbr>).</strong> 
+The whale shark is found in open waters of the tropical oceans and is rarely found in water below <strong>21 <abbr title="degree centigrades">°C</abbr> (70 <abbr title="Degree Farenhite">°F</abbr>).</strong> 
 Modeling suggests a lifespan of about <strong>70 years</strong>, and while measurements have proven difficult, estimates from field data 
 suggest they may live as long as <strong>130 years</strong>. Whale sharks have very large mouths and are <i class=habit>filter feeders</i>
 They feed almost exclusively on <i>plankton</i> and <i>small fishes</i>, and pose <b>no threat</b> to humans.</p>
